@@ -7,6 +7,10 @@ StyleGAN2를 이용한 게임 속 축구 선수 얼굴 이미지 생성 프로�
 StyleGAN2의 전체적인 모델 구조 및 기존 StyleGAN과의 차별점 등을 알아보았다.
 ![StyleGAN2](https://github.com/eu2525/Khuda_Project_StyleGAN2/assets/49024115/ca3461bd-850a-47ec-a194-3d3abfc83ffd)
 
+---
+## 팀 소개
+* 한상진
+* 황동민
 
 ---
 ## 프로젝트 진행
